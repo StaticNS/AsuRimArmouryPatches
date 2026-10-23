@@ -1,0 +1,8 @@
+<Defs>
+  <JobDef>
+    <defName>ASA_Patches_ReArm</defName>
+    <driverClass>AsuRim.Armoury.Patches.JobDriver_ReArmPatch</driverClass>
+    <reportString>rearming.</reportString>
+    <alwaysShowWeapon>true</alwaysShowWeapon>
+  </JobDef>
+</Defs>

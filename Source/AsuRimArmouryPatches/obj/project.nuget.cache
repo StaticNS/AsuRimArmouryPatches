@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3LkyjIln1U=",
+  "success": true,
+  "projectFilePath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AsuRimArmouryPatches\\Source\\AsuRimArmouryPatches\\AsuRimArmouryPatches.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StaticNS\\.nuget\\packages\\krafs.rimworld.ref\\1.7.4984-unstable\\krafs.rimworld.ref.1.7.4984-unstable.nupkg.sha512",
+    "C:\\Users\\StaticNS\\.nuget\\packages\\lib.harmony\\3.0.0-rc.3\\lib.harmony.3.0.0-rc.3.nupkg.sha512"
+  ],
+  "logs": []
+}

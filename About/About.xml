@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rules of Engagement Patches</name>
+  <author>StaticNS</author>
+  <packageId>StaticNS.AsuRimArmouryPatches</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+	<li>
+      <packageId>asunib.RulesOfEngagement</packageId>
+      <displayName>Rules of Engagement</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3809985752</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+	<li>asunib.RulesOfEngagement</li>
+  </loadAfter>
+  <description>I don't like the current loadout policy editor for Rules of Engagement. So I made some changes. Also, I wanted a way to manually start a restock job. Did that too.
+
+Credit goes to the original mod auther @Asunib for the amazing mod. I take no credit for the orginal functionality. I only added on top of what is already there.
+
+Yes, this mod is AI assisted. No, I will not trudge through undocumented API and decompiled code for multiple days. I want to play the game.
+  </description>
+</ModMetaData>

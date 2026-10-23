@@ -1,0 +1,8 @@
+<LanguageData>
+  <ASA_Loadout_Grenades>Grenades</ASA_Loadout_Grenades>
+  <ASA_Loadout_Medicine>Medicine</ASA_Loadout_Medicine>
+  <ASA_Edit_AmmoSearch>Search ammunition...</ASA_Edit_AmmoSearch>
+  <ASA_Rearm>Rearm</ASA_Rearm>
+  <ASA_Rearm_Desc>Restore weapons and loadout supplies from nearby stockpiles, and return excess equipment.</ASA_Rearm_Desc>
+  <ASA_Loadout_CETotals>Loadout weight: {0} kg  |  bulk: {1}</ASA_Loadout_CETotals>
+</LanguageData>

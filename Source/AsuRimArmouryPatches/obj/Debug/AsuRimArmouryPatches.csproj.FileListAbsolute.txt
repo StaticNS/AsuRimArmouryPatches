@@ -1,0 +1,7 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\AsuRimArmouryPatches.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\AsuRimArmouryPatches.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\AsuRimArmouryPatches.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\1.7\Assemblies\AsuRimArmouryPatches.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\AsuRimArmouryPatches.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\refint\AsuRimArmouryPatches.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\AsuRimArmouryPatches\Source\AsuRimArmouryPatches\obj\Debug\ref\AsuRimArmouryPatches.dll

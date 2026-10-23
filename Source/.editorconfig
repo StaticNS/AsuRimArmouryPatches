@@ -1,0 +1,8 @@
+// Source - https://stackoverflow.com/a/74596206
+// Posted by NineBerry, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-10-21, License - CC BY-SA 4.0
+[*.cs]
+csharp_new_line_before_open_brace = none
+csharp_new_line_before_else = false
+csharp_new_line_before_catch = false
+csharp_new_line_before_finally = false
